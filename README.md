@@ -1,8 +1,6 @@
 # OS-SimBench: Operating System Resource Management Simulator & Benchmark Suite
 
-**Course:** Operating Systems Laboratory (`ENSC-351`), B.Tech Semester V  
-**Target Platform:** Ubuntu 24.04 LTS (WSL2 / Linux), Bash Shell, Python 3.x  
-**Submission Category:** Integrated OS Capstone Project (100 Marks)  
+## link to the website: https://os-simbench-capstone.onrender.com/
 
 ### 👥 Project Authors
 - **Kunal Yadav** (`2401730157`)
